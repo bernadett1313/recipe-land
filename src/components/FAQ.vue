@@ -1,0 +1,37 @@
+<script setup>
+
+</script>
+
+<template>
+    <article class="w-full flex flex-col pl-3 pr-9 mb-4 lg:mb-12">
+        <h2 class="uppercase text-xl md:text-2xl xl:text-3xl font-medium text-center mb-12">Frequently asked questions</h2>
+        <h3 class="uppercase text-[1.17rem] md:text-xl xl:text-2xl font-medium">Can I substitute this ingredient?</h3>
+        <p class="text-[1.05rem] sm:text-[1.16rem] md:text-[1.22rem] lg:text-[1.28rem] my-3 md:5 lg:my-7 text-black">I recommend using the specified ingredients listed in the recipe whenever possible for optimal results. I understand that you may have dietary restrictions or simply do not have a particular ingredient on hand, but please remember that by using a substitution, I cannot speak for how much this will change in the overall taste or texture of the dish without further recipe testing.</p>
+        <p class="text-[1.05rem] sm:text-[1.16rem] md:text-[1.22rem] lg:text-[1.28rem] my-3 md:5 lg:my-7 text-black">Using a substitution may also result in a mediocre outcome.</p>
+        <h3 class="uppercase text-[1.17rem] md:text-xl xl:text-2xl font-medium pt-5">I tried one of your recipes but it did not turn out. What did I do wrong?</h3>
+        <p class="text-[1.05rem] sm:text-[1.16rem] md:text-[1.22rem] lg:text-[1.28rem] my-3 md:5 lg:my-7 text-black">Please understand that it is very hard to specifically answer this question since I am not in the kitchen with you. That being said, I only share recipes that have been successful and well-tested in my own kitchen, but I understand that failures and mishaps can happen.</p>
+        <p class="text-[1.05rem] sm:text-[1.16rem] md:text-[1.22rem] lg:text-[1.28rem] my-3 md:5 lg:my-7 text-black">Instead of blaming the recipe, it is important to remember that many factors are at play here that may result in a failed outcome. But with a little bit more information, we can troubleshoot what went wrong to have a successful turnaround next time.</p>
+        <h3 class="uppercase text-[1.17rem] md:text-xl xl:text-2xl font-medium pt-5">What is the best way to store leftovers? How long will this keep?</h3>
+        <p class="text-[1.05rem] sm:text-[1.16rem] md:text-[1.22rem] lg:text-[1.28rem] my-3 md:5 lg:my-7 text-black">As I am not an expert on food safety, I am not comfortable answering these questions. Methods for optimal food storage and shelf life should be based on good judgment and what you are personally comfortable with.</p>
+        <h3 class="uppercase text-[1.17rem] md:text-xl xl:text-2xl font-medium pt-5">Can I freeze this?</h3>
+        <p class="text-[1.05rem] sm:text-[1.16rem] md:text-[1.22rem] lg:text-[1.28rem] my-3 md:5 lg:my-7 text-black">I will always provide instructions and tips on dishes that I have frozen myself but unfortunately, I do not freeze all of my recipes so I cannot always answer this question. Please use your best judgment for freezing and reheating.</p>
+        <h3 class="uppercase text-[1.17rem] md:text-xl xl:text-2xl font-medium pt-5">Can I use a slow cooker or Instant Pot for this recipe instead?</h3>
+        <p class="text-[1.05rem] sm:text-[1.16rem] md:text-[1.22rem] lg:text-[1.28rem] my-3 md:5 lg:my-7 text-black">Please understand that it is very difficult to give exact conversion information without further recipe testing. As always, please use your best judgement to convert my recipes to utilize a slow cooker or Instant Pot.</p>
+        <h3 class="uppercase text-[1.17rem] md:text-xl xl:text-2xl font-medium pt-5">Can you share the nutritional information for this recipe?</h3>
+        <p class="text-[1.05rem] sm:text-[1.16rem] md:text-[1.22rem] lg:text-[1.28rem] my-3 md:5 lg:my-7 text-black">Unfortunately, as I am not a registered dietician, I am not comfortable sharing nutritional information for any of my recipes. I recommend utilizing online calorie counters at your discretion to obtain such information</p>
+        <h3 class="uppercase text-[1.17rem] md:text-xl xl:text-2xl font-medium pt-5">How do I sign up for email updates to stay-up-to-date with your new recipes? Is the subscription free?</h3>
+        <p class="text-[1.05rem] sm:text-[1.16rem] md:text-[1.22rem] lg:text-[1.28rem] my-3 md:5 lg:my-7 text-black">You can sign up for free email updates here to have new recipes delivered right to your inbox. Yes, it’s really free!</p>
+        <h3 class="uppercase text-[1.17rem] md:text-xl xl:text-2xl font-medium pt-5">I signed up for the email updates but I can’t find a particular recipe. What am I doing wrong?</h3>
+        <p class="text-[1.05rem] sm:text-[1.16rem] md:text-[1.22rem] lg:text-[1.28rem] my-3 md:5 lg:my-7 text-black">The email updates are for new and select recipes at this time. If you need to find a particular recipe, you can browse through the recipe index or utilize the search bar located on the top right sidebar. And if all else fails, Google is also very helpful!</p>
+        <h3 class="uppercase text-[1.17rem] md:text-xl xl:text-2xl font-medium pt-5">Can I write a guest post for your site?</h3>
+        <p class="text-[1.05rem] sm:text-[1.16rem] md:text-[1.22rem] lg:text-[1.28rem] my-3 md:5 lg:my-7 text-black">I really appreciate the offer but I am not accepting guest posts on my site at this time.</p>
+        <h3 class="uppercase text-[1.17rem] md:text-xl xl:text-2xl font-medium pt-5">Can I republish your photos and/or recipes?</h3>
+        <p class="text-[1.05rem] sm:text-[1.16rem] md:text-[1.22rem] lg:text-[1.28rem] my-3 md:5 lg:my-7 text-black">Unfortunately we do not allow the republication of any copyrighted photos or recipes at this time without prior consent and written permission.</p>
+        <h3 class="uppercase text-[1.17rem] md:text-xl xl:text-2xl font-medium pt-5">Do you blog full-time?</h3>
+        <p class="text-[1.05rem] sm:text-[1.16rem] md:text-[1.22rem] lg:text-[1.28rem] my-3 md:5 lg:my-7 text-black">I am happy to say that as of September 2013 I transitioned into becoming a full-time blogger, although having a day job and maintaining a blog was more like having two full-time jobs! This decision did not come lightly as I obtained a Master’s degree in Public Health in May 2012.</p>
+        <p class="text-[1.05rem] sm:text-[1.16rem] md:text-[1.22rem] lg:text-[1.28rem] my-3 md:5 lg:my-7 text-black">With over $180,000 debt in student loans, I promised myself that I would use my degree but my love for cooking and running this blog eventually won out, and I am so incredibly grateful to have this job. I admit that you really have to work your butt off to maintain a blog and to be an entrepreneurial business owner, in a sense, but at the end of the day, I truly love my job. Plus, there’s always food on the dinner table!</p>
+        <h3 class="uppercase text-[1.17rem] md:text-xl xl:text-2xl font-medium pt-5">Do you have any tips/recommendations for a newbie blogger like myself?</h3>
+        <p class="text-[1.05rem] sm:text-[1.16rem] md:text-[1.22rem] lg:text-[1.28rem] my-3 md:5 lg:my-7 text-black">This is such a difficult question to answer but the important thing to remember is to be yourself and to be authentic. Blog because you love it and because you are passionate about it!</p>
+    </article>
+    <hr class="block lg:hidden pb-8">
+</template>

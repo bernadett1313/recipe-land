@@ -1,0 +1,23 @@
+@import 'base.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @font-face {
+        font-family: 'Satisfy';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        font-stretch: expanded;
+        src: url(./fonts/Satisfy/Satisfy-Regular.ttf) format('truetype');
+    }
+    @font-face {
+        font-family: 'Indie_Flower';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        font-stretch: expanded;
+        src: url(./fonts/Indie_Flower/IndieFlower-Regular.ttf) format('truetype');
+    }
+}
